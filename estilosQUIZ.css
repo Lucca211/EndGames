@@ -1,0 +1,164 @@
+html  {
+  background-image: url(imagens/azul-turquoise-gradient-minimalista-android-wallpaper-whatsapp-android-iphone.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+main {
+  padding: 50px;
+}
+
+body,html {
+  min-height: 100%;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+
+}
+
+header audio {
+  position: fixed;
+  right: 90px;
+}
+
+header {
+  background-image: linear-gradient( lightblue, darkblue );
+  box-shadow: 0px 10px 10px 5px darkblue;
+  padding-top: 1em;
+  padding-top: 40px;
+  text-align: center;
+}
+
+header h1 {
+  text-align: center;
+  font-family: "Baloo Bhai", "Montserrat", Source Sans Pro;
+  font-size: 70px;
+  margin: -50px;
+  text-shadow: 3px 3px black;
+  color: white;
+}
+
+header h2 {
+  text-align: center;
+  font-family: "Montserrat", Source Sans Pro;
+  font-size: 20px;
+  margin: -30px;
+  padding: 20px;
+  text-shadow: 2px 2px black;
+  color: lightblue;
+}
+
+header li {
+  text-align: center;
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  margin-bottom: 2px;
+	font-family: 'Noto Sans HK', sans-serif;
+  font-size: 20px;
+}
+
+header a {
+  color: #b6dd06 ;
+}
+
+header ul {
+  justify-content: center;
+  display: flex;
+}
+
+main p {
+  padding-top: 50px;
+}
+
+main h1 {
+  text-align: center;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 60px;
+  text-shadow: 2px 2px black;
+  color: rgb(76, 39, 253);
+  margin: auto;
+  padding-bottom: 50px;
+
+}
+
+main h2 {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 30px;
+  margin: auto;
+  padding-bottom: 20px;
+  padding-left: 120px;
+  text-shadow: 2px 2px black;
+  color: rgb(255, 254, 1);
+}
+
+a:visited {
+  color: lightyellow;
+  text-shadow: 3px 3px black;
+}
+
+.question {
+	font-weight: 600;
+}
+
+.answers {
+    margin-bottom: 20px;
+}
+
+#envio {
+	font-family: sans-serif;
+	font-size: 20px;
+	background-color: #297;
+	color: #fff;
+	border: 0px;
+	border-radius: 3px;
+	padding: 20px;
+	cursor: pointer;
+	margin-bottom: 20px;
+}
+
+#envio:hover {
+	background-color: #5a8;
+}
+
+.TUDO {
+	padding-left: 40px;
+	padding-top: 200px;
+	font-family: 'PT Sans', sans-serif;
+  color: white;
+	text-shadow: 1px 1px black;
+}
+
+.question {
+	padding-top: 10px;
+	color: yellow;
+	font-size: 25px;
+}
+
+.answers {
+	padding-top: 10px;
+	color: purple;
+	font-size: 20px;
+}
+
+h2 {
+	font-family: 'PT Sans', sans-serif;
+	font-size: 30px;
+	margin: auto;
+	padding-bottom: 20px;
+	padding-left: 120px;
+	text-shadow: 1.5px 1.5px black;
+	color: lightgreen;
+}
+
+#results {
+  font-size: 30px;
+  font-family: 'PT Sans', sans-serif;
+  color: white;
+  text-shadow: 1px 1px black;
+  margin-bottom: 100px;
+}
