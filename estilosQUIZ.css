@@ -109,7 +109,7 @@ a:visited {
     margin-bottom: 20px;
 }
 
-#envio {
+#submit {
 	font-family: sans-serif;
 	font-size: 20px;
 	background-color: #297;
@@ -121,7 +121,7 @@ a:visited {
 	margin-bottom: 20px;
 }
 
-#envio:hover {
+#submit:hover {
 	background-color: #5a8;
 }
 
